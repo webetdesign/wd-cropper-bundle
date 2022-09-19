@@ -1,0 +1,1 @@
+# wd-cropper-bundle
